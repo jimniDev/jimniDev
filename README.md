@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimin-kim-196692189/)](https://www.linkedin.com/in/jimin-kim-196692189/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimniDev)](https://github.com/anuraghazra/github-readme-stats)
