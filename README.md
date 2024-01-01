@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://whttps://github.com/jimniDev.linkedin.com/in/jimin-kim-196692189/)](https://www.linkedin.com/in/jimin-kim-196692189/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyh04153@gmail.com)](mailto:gyh04153@gmail.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimniDev)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
