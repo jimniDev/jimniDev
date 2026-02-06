@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://whttps://github.com/jimniDev.linkedin.com/in/jimin-kim-196692189/)](https://www.linkedin.com/in/jimin-kim-196692189/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyh04153@gmail.com)](mailto:gyh04153@gmail.com)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimniDev)](https://github.com/anuraghazra/github-readme-stats)
-
  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
  ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
